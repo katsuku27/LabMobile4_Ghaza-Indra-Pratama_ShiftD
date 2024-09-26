@@ -1,5 +1,5 @@
 # tokokita
 
 ![produkdetail](detailproduk.png)
-![produkadd](detailadd.png)
-![produklist](detaillist.png)
+![produkadd](produkadd.png)
+![produklist](produklist.png)
